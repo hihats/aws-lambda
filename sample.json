@@ -1,0 +1,13 @@
+{
+  "data": {
+    "type": "products",
+    "id": 123,
+    "attributes": {
+      "name": "Fun Toy",
+      "description": "Toy for infants",
+      "state": "in sale",
+      "slug": "4b5366e5",
+      "photo": "TOY.jpg"
+    }
+  }
+}
